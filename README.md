@@ -62,4 +62,4 @@ self.show_toolbar_button = False
 around line 401
 
 ## Screenshot
-![Alt text for accessibility](assets/V_SC_Change-default-fileds-order-1.jpg)
+![Alt text for accessibility](screenshots/V_SC_Change-default-fileds-order-1.jpg)
